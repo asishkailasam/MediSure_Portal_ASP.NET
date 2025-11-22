@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Luminar Asp.Net Class\\MediSure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\doctorregistration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\doctorregistration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|d:\\luminar asp.net class\\medisure\\medisure\\doctorsportal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\doctorsportal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\doctorregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\doctorregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\doctorregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\doctorregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminportal1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminportal1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminportal1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminportal1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminportal1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminportal1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminportal.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminportal.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminportal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminportal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\adminportal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\adminportal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\add_product.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\add_product.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\add_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\add_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\add_categorys.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\add_categorys.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\add_categorys.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\add_categorys.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\add_product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\add_product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\medisuretemplate.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\medisuretemplate.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\medisuretemplate.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\medisuretemplate.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\add_categorys.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\add_categorys.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\edit_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\edit_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\edit_product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\edit_product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\edit_categoryes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\edit_categoryes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|D:\\Luminar Asp.Net Class\\MediSure\\medisure\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E1DD75D-4E99-48B0-9BD1-667A56B0742E}|MediSure\\MediSure.csproj|solutionrelative:medisure\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsPortal.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorsPortal.aspx",
+              "RelativeDocumentMoniker": "MediSure\\DoctorsPortal.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorsPortal.aspx",
+              "RelativeToolTip": "MediSure\\DoctorsPortal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-15T10:22:39.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorRegistration.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorRegistration.aspx.designer.cs",
+              "RelativeDocumentMoniker": "MediSure\\DoctorRegistration.aspx.designer.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorRegistration.aspx.designer.cs",
+              "RelativeToolTip": "MediSure\\DoctorRegistration.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:22:02.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "MediSure\\ConnectionClass.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\ConnectionClass.cs",
+              "RelativeToolTip": "MediSure\\ConnectionClass.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:56:58.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminRegistration.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\AdminRegistration.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminRegistration.aspx.cs",
+              "RelativeToolTip": "MediSure\\AdminRegistration.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:34:06.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorRegistration.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\DoctorRegistration.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorRegistration.aspx.cs",
+              "RelativeToolTip": "MediSure\\DoctorRegistration.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:35:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminRegistration.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminRegistration.aspx",
+              "RelativeDocumentMoniker": "MediSure\\AdminRegistration.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminRegistration.aspx",
+              "RelativeToolTip": "MediSure\\AdminRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T15:33:45.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorRegistration.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorRegistration.aspx",
+              "RelativeDocumentMoniker": "MediSure\\DoctorRegistration.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\DoctorRegistration.aspx",
+              "RelativeToolTip": "MediSure\\DoctorRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T15:35:21.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminPortal1.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "MediSure\\AdminPortal1.aspx.designer.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal1.aspx.designer.cs",
+              "RelativeToolTip": "MediSure\\AdminPortal1.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:21:27.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminPortal1.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal1.aspx",
+              "RelativeDocumentMoniker": "MediSure\\AdminPortal1.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal1.aspx",
+              "RelativeToolTip": "MediSure\\AdminPortal1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-15T10:21:23.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminPortal.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal.aspx",
+              "RelativeDocumentMoniker": "MediSure\\AdminPortal.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal.aspx",
+              "RelativeToolTip": "MediSure\\AdminPortal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T15:30:17.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add_Product.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Product.aspx.designer.cs",
+              "RelativeDocumentMoniker": "MediSure\\Add_Product.aspx.designer.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Product.aspx.designer.cs",
+              "RelativeToolTip": "MediSure\\Add_Product.aspx.designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:18:58.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminPortal.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\AdminPortal.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal.aspx.cs",
+              "RelativeToolTip": "MediSure\\AdminPortal.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:18:36.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminPortal1.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal1.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\AdminPortal1.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal1.aspx.cs",
+              "RelativeToolTip": "MediSure\\AdminPortal1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:14:28.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminPortal.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal.aspx.designer.cs",
+              "RelativeDocumentMoniker": "MediSure\\AdminPortal.aspx.designer.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\AdminPortal.aspx.designer.cs",
+              "RelativeToolTip": "MediSure\\AdminPortal.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:18:38.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add_Product.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Product.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\Add_Product.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Product.aspx.cs",
+              "RelativeToolTip": "MediSure\\Add_Product.aspx.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwF0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:26:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Add_Categorys.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Categorys.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\Add_Categorys.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Categorys.aspx.cs",
+              "RelativeToolTip": "MediSure\\Add_Categorys.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:29:32.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add_Categorys.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Categorys.aspx.designer.cs",
+              "RelativeDocumentMoniker": "MediSure\\Add_Categorys.aspx.designer.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Categorys.aspx.designer.cs",
+              "RelativeToolTip": "MediSure\\Add_Categorys.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:21:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\LoginForm.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\LoginForm.aspx.cs",
+              "RelativeToolTip": "MediSure\\LoginForm.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:22:45.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MediSureTemplate.Master",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\MediSureTemplate.Master",
+              "RelativeDocumentMoniker": "MediSure\\MediSureTemplate.Master",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\MediSureTemplate.Master",
+              "RelativeToolTip": "MediSure\\MediSureTemplate.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-15T10:19:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add_Product.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Product.aspx",
+              "RelativeDocumentMoniker": "MediSure\\Add_Product.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Product.aspx",
+              "RelativeToolTip": "MediSure\\Add_Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T15:25:20.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MediSureTemplate.Master.designer.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\MediSureTemplate.Master.designer.cs",
+              "RelativeDocumentMoniker": "MediSure\\MediSureTemplate.Master.designer.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\MediSureTemplate.Master.designer.cs",
+              "RelativeToolTip": "MediSure\\MediSureTemplate.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:19:29.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Add_Categorys.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Categorys.aspx",
+              "RelativeDocumentMoniker": "MediSure\\Add_Categorys.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Add_Categorys.aspx",
+              "RelativeToolTip": "MediSure\\Add_Categorys.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T15:28:47.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit_Product.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Edit_Product.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\Edit_Product.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Edit_Product.aspx.cs",
+              "RelativeToolTip": "MediSure\\Edit_Product.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwE4AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:26:59.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit_Product.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Edit_Product.aspx",
+              "RelativeDocumentMoniker": "MediSure\\Edit_Product.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Edit_Product.aspx",
+              "RelativeToolTip": "MediSure\\Edit_Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T15:31:37.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit_Categoryes.aspx.cs",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Edit_Categoryes.aspx.cs",
+              "RelativeDocumentMoniker": "MediSure\\Edit_Categoryes.aspx.cs",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\Edit_Categoryes.aspx.cs",
+              "RelativeToolTip": "MediSure\\Edit_Categoryes.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:09:35.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "MediSure\\LoginForm.aspx",
+              "ToolTip": "D:\\Luminar Asp.Net Class\\MediSure\\MediSure\\LoginForm.aspx",
+              "RelativeToolTip": "MediSure\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T14:58:20.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
